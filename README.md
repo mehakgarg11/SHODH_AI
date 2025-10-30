@@ -1,5 +1,7 @@
 # Real-Time Coding Contest UI (Community)
 
+https://wind-said-35125606.figma.site/
+
 A lightweight, real-time coding contest front-end scaffold built with React + Vite. The HTML entry mounts a `#root` container and loads the app from `/src/main.tsx`. :contentReference[oaicite:0]{index=0}
 
 ---
